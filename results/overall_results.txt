@@ -1,0 +1,14 @@
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_09.hdf5
+0.277670792459
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_79.hdf5
+0.0651622884983
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_10.hdf5
+0.277635130687
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_20.hdf5
+0.277635130687
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_60.hdf5
+0.268379529045
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_79.hdf5
+0.0651622884983
+../models/mlp_num_hidden_units_1024_num_hidden_layers_3_epoch_79.hdf5
+0.0651622884983
